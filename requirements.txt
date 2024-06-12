@@ -8,5 +8,6 @@ aioice
 twilio
 scipy
 imutils
+dlib-binary
 face_recognition@git+https://github.com/akashthakur4553/face_recognition
 
