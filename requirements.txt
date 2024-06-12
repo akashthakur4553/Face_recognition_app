@@ -12,8 +12,6 @@ numpy
 cmake
 dlib-bin
 streamlit==1.28.1
-Pillow==8.4.0
-cvzone
 face_recognition @ git+https://github.com/thetoby9944/face_recognition
 pytz
 
