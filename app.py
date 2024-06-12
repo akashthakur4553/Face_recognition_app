@@ -1,12 +1,12 @@
 import logging
-import cv2
+
 import numpy as np
 import streamlit as st
 import face_recognition
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 from twilio.base.exceptions import TwilioRestException
 from twilio.rest import Client
-
+import cv2
 logger = logging.getLogger(__name__)
 
 
