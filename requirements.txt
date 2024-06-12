@@ -10,5 +10,5 @@ twilio
 scipy
 imutils
 dlib-bin
-
+face_recognition@git+https://github.com/akashthakur4553/face_recognition
 
