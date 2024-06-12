@@ -5,7 +5,6 @@ cmake
 Pillow
 numpy
 aioice
-logging
 twilio
 scipy
 imutils
