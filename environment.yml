@@ -2,14 +2,15 @@ name:Face_recognition_app
 channels:
      - conda-forge
  dependencies:
-     - dlib
-     - numpy
-     - scipy
-     - opencv
-     - face_recognition
-     -twilio
-     -imutils
-     -aioice
+ a
+ - dlib
+ - numpy
+ - scipy
+ - opencv
+ - face_recognition
+ -twilio
+ -imutils
+ -aioice
 
 
     
