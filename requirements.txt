@@ -1,3 +1,5 @@
+--upgrade pip
+--upgrade setuptools
 streamlit
 opencv-python-headless
 streamlit_webrtc
@@ -5,9 +7,9 @@ cmake
 Pillow
 numpy
 aioice
-logging  --no-deps
-twilio  --no-deps
-scipy  --no-deps
-imutils  --no-deps
-dlib-bin  --no-deps
-face_recognition  --no-deps
+logging  
+twilio  
+scipy  
+imutils  
+dlib-bin  
+face_recognition  
