@@ -11,5 +11,4 @@ scipy
 imutils
 dlib-bin
 dlib-binary
-face-recognition
-face-recognition-models
+
