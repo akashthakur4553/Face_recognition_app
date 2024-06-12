@@ -1,17 +1,19 @@
 altair
 pandas
 streamlit-webrtc
-streamlit-webcam-example
-opencv-contrib-python-headless
-cmake==3.25.2
-dlib==19.24.2
 scikit-image 
-Pillow
 numpy
 aioice
 twilio
 scipy
-imutils
-face_recognition@git+https://github.com/akashthakur4553/face_recognition 
-
+imutils 
+opencv-python-headless
+numpy
+cmake
+dlib-bin==19.22.0
+streamlit==1.28.1
+Pillow==8.4.0
+cvzone
+face_recognition @ git+https://github.com/thetoby9944/face_recognition
+pytz
 
