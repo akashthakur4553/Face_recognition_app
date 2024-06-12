@@ -5,6 +5,7 @@ click==7.1.2
 cmake==3.18.2.post1
 decorator==4.4.2
 dlib==19.18.0
+dlib-bin
 face-recognition==1.3.0
 face-recognition-models==0.3.0
 opencv-python-headless
