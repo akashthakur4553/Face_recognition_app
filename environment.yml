@@ -5,7 +5,7 @@ channels:
      - dlib
      - numpy
      - scipy
-     - opencv-python-headless
+     - opencv
      - face_recognition
      -twilio
      -imutils
