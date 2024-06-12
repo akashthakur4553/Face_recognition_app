@@ -10,4 +10,4 @@ twilio
 scipy
 imutils
 dlib-bin
-
+face_recognition
