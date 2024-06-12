@@ -10,6 +10,6 @@ scipy
 imutils
 dlib-binary
 https://files.pythonhosted.org/packages/7d/cd/d7460c9a869b16c3dd4e1e403cce337df165368c71d6af229a74699622ce/wheel-0.43.0-py3-none-any.whl
-https://files.pythonhosted.org/packages/0e/ce/f8a3cff33ac03a8219768f0694c5d703c8e037e6aba2e865f9bae22ed63c/dlib-19.8.1-cp36-cp36m-win_amd64.whl#sha256=794994fa2c54e7776659fddb148363a5556468a6d5d46be8dad311722d54bfcf
+@git+https://github.com/shashankx86/dlib_compiled/blob/v19.22/dlib-19.22.99-cp39-cp39-win_amd64.whl
 face_recognition@git+https://github.com/akashthakur4553/face_recognition
 
