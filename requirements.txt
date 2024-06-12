@@ -10,7 +10,7 @@ imutils
 opencv-python-headless
 numpy
 cmake
-dlib-bin==19.22.0
+dlib-bin
 streamlit==1.28.1
 Pillow==8.4.0
 cvzone
