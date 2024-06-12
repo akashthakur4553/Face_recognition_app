@@ -3,7 +3,8 @@ pandas
 streamlit-webrtc
 streamlit-webcam-example
 opencv-contrib-python-headless
-cmake
+cmake==3.25.2
+dlib==19.24.2
 scikit-image 
 Pillow
 numpy
