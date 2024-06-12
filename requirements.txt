@@ -5,9 +5,9 @@ cmake
 Pillow
 numpy
 aioice
-logging
-twilio
-scipy
-imutils
-dlib-bin
-face_recognition
+logging  --no-deps
+twilio  --no-deps
+scipy  --no-deps
+imutils  --no-deps
+dlib-bin  --no-deps
+face_recognition  --no-deps
